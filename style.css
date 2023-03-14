@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} 
+
+.ContainerHeader {
+    display: flex;
+    border: solid 1px black;
+    background-color: rgb(81, 214, 214);
+    height: 60px;
+    align-items: center;
+}
+
+.Header {
+    margin-left: 15px;
+}
+
+.Second-Box {
+    display: flex;
+    height: 380px;
+}
+
+.box-navigation {
+    width: 300px;
+    border: solid 1px black;
+    background-color: rgb(253, 215, 64);
+}
+
+.box-article {
+    width: 700px;
+    border: solid 1px black;
+    background-color: rgb(237, 197, 19);
+}
+
+.box-aside {
+    width: 400px;
+    border: solid 1px black;
+    background-color: rgb(241, 226, 14);
+}
+
+.Footer-Box {
+    height: 129.5px;
+    border: solid 1px black;
+    background-color: rgb(81, 214, 214);
+}
+
+.box-footer {
+    margin-top: 20px;
+    margin-left: 20px;
+}
